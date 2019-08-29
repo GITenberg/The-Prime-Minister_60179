@@ -1,0 +1,27 @@
+_repo: The-Prime-Minister_60179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spender, Harold
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '9033'
+    url: http://www.gutenberg.org/2009/agents/9033
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Spender
+description: ''
+gutenberg_issued: '2019-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60179'
+  lccn: '20022843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lloyd George, David, 1863-1945'
+- !lcc 'DA'
+- !lcsh 'Prime ministers -- Great Britain -- Biography'
+- GITenberg
+title: The Prime Minister
+url: http://www.gutenberg.org/ebooks/60179
